@@ -255,23 +255,6 @@ results/tokens/
 }
 ```
 
-### 🎯 Key Features
-
-- **25-line index.js:** Ultra-clean entry point (95% reduction from original!)
-- **Modular Architecture:** 19 organized modules across 6 logical domains
-- **Zero Comments:** Self-documenting, clean code
-- **Full Functionality:** All features preserved and working
-- **Easy Maintenance:** Changes isolated to specific modules
-- **Professional Structure:** Industry-standard organization
-
-### 💡 Tips & Best Practices
-
-1. **Start with low `concurrentRequests`** (3-5) to avoid rate limiting
-2. **Use proxies** for higher request rates and IP rotation
-3. **Enable progress saving** to avoid losing work on interruption
-4. **Monitor speed metrics** to optimize your configuration
-5. **Use test mode** first to verify links/tokens before mass scanning
-
 ### ⚠️ Disclaimer
 
 This software is for **educational and research purposes only**. The author is not responsible for misuse. Please comply with:
@@ -541,23 +524,6 @@ results/tokens/
   ]
 }
 ```
-
-### 🎯 Ключевые Особенности
-
-- **25-строчный index.js:** Ультра-чистая точка входа (уменьшение на 95% от оригинала!)
-- **Модульная Архитектура:** 19 организованных модулей в 6 логических доменах
-- **Без Комментариев:** Самодокументирующийся, чистый код
-- **Полный Функционал:** Все возможности сохранены и работают
-- **Легкая Поддержка:** Изменения изолированы в конкретных модулях
-- **Профессиональная Структура:** Организация по отраслевым стандартам
-
-### 💡 Советы и Лучшие Практики
-
-1. **Начните с низкого `concurrentRequests`** (3-5), чтобы избежать rate limiting
-2. **Используйте прокси** для более высокой скорости запросов и ротации IP
-3. **Включите сохранение прогресса**, чтобы не потерять работу при прерывании
-4. **Следите за метриками скорости** для оптимизации вашей конфигурации
-5. **Используйте режим тестирования** сначала для проверки ссылок/токенов перед массовым сканированием
 
 ### ⚠️ Отказ от Ответственности
 
