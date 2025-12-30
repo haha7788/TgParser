@@ -19,7 +19,7 @@ async function promptForLink() {
 async function promptForToken() {
     return new Promise((resolve) => {
         console.log();
-        console.log(`${colors.yellow}Пример токена: 8188479584:AAEiu15STvfoEkM0yTPRLtrLZtPeivMpXIE${colors.reset}`);
+        console.log(`${colors.yellow}Пример токена: 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz123456789${colors.reset}`);
         console.log();
 
         const rl = readline.createInterface({
